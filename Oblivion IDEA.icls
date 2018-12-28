@@ -1,9 +1,9 @@
 <scheme name="Oblivion IDEA" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-12-28T15:53:59</property>
+    <property name="created">2018-12-28T17:08:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2018-12-28T15:54:21</property>
+    <property name="modified">2018-12-28T17:09:15</property>
     <property name="originalScheme">Oblivion IDEA</property>
   </metaInfo>
   <colors>
@@ -29,7 +29,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="262626" />
     <option name="INDENT_GUIDE" value="303030" />
-    <option name="LINE_NUMBERS_COLOR" value="404040" />
+    <option name="LINE_NUMBERS_COLOR" value="808080" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="212121" />
@@ -279,7 +279,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="d9e577" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -305,7 +305,9 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -356,7 +358,9 @@
       </value>
     </option>
     <option name="DEFAULT_METADATA">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
@@ -503,10 +507,15 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404040" />
+        <option name="EFFECT_COLOR" value="606060" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="79abff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d8d8d8" />
@@ -585,6 +594,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d25252" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -596,8 +606,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79abff" />
-        <option name="EFFECT_COLOR" value="79abff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
@@ -621,14 +632,16 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="2a2a2a" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c7dd0c" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+        <option name="ERROR_STRIPE_COLOR" value="c7dd0c" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -663,19 +676,20 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404040" />
-        <option name="EFFECT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="606060" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79abff" />
-        <option name="EFFECT_COLOR" value="79abff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d25252" />
+        <option name="ERROR_STRIPE_COLOR" value="d25252" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
