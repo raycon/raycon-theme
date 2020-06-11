@@ -1,0 +1,21 @@
+{
+  "name": "vscode-oblivion-theme",
+  "displayName": "vscode-oblivion-theme",
+  "description": "Oblivion Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oblivion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oblivion-color-theme.json"
+      }
+    ]
+  }
+}
