@@ -1,6 +1,6 @@
-# Oblivion
+# Raycon Theme
 
-Oblivion Theme for IntelliJ IDEA inspired by [Oblivion - by Roger Dudler](http://www.eclipsecolorthemes.org/?view=theme&id=1)
+Raycon Theme inspired by [Oblivion - by Roger Dudler](http://www.eclipsecolorthemes.org/?view=theme&id=1)
 
     #000000 Background - Selected
     #1E1E1E Background - Default
