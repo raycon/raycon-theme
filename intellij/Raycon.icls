@@ -1,11 +1,11 @@
-<scheme name="Oblivion IDEA" version="142" parent_scheme="Default">
+<scheme name="Raycon" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-11T17:23:00</property>
+    <property name="created">2020-06-16T19:18:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.4.0.0</property>
-    <property name="modified">2020-06-11T17:23:16</property>
-    <property name="originalScheme">Oblivion IDEA</property>
+    <property name="modified">2020-06-16T19:25:36</property>
+    <property name="originalScheme">Raycon</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />

@@ -1,7 +1,7 @@
 {
-  "name": "vscode-oblivion-theme",
-  "displayName": "vscode-oblivion-theme",
-  "description": "Oblivion Theme for VSCode",
+  "name": "raycon-theme",
+  "displayName": "raycon-theme",
+  "description": "Raycon Theme for VSCode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.45.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Oblivion",
+        "label": "Raycon Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/oblivion-color-theme.json"
+        "path": "./themes/raycon-theme.json"
       }
     ]
   }
